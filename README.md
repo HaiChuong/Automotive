@@ -8,3 +8,5 @@
 - [Readme](https://github.com/HaiChuong/Automotive/blob/main/Timer%20-%20Interrupt/README.md)
 
 - [Project](https://github.com/HaiChuong/Automotive/tree/main/Timer%20-%20Interrupt/Timer%20-%20Interrupt)
+## Communication Protocols
+- [Readme](https://github.com/HaiChuong/Automotive/blob/main/Communication_Protocols/README.md)
